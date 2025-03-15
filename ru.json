@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Сэр «Чёртовы ремни» Дэррил | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varf5_png.png"
+    },
+    {
+        "name": "«Черничный» Бакшот | NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variantj_png.png"
+    },
+    {
+        "name": "«Дважды» Маккой | Кавалерия TACP",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variantl_png.png"
+    },
+    {
+        "name": "Коммандер Мэй «Льдина» Джемисон | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_variante_png.png"
+    },
+    {
+        "name": "Старший лейтенант Фарлоу | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_variantf_png.png"
+    },
+    {
+        "name": "Джон «Ван Лечитт» Каск | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_variantg_png.png"
+    },
+    {
+        "name": "Специалист по биозащите | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_varianth_png.png"
+    },
+    {
+        "name": "Сержант Бомбсон | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_varianti_png.png"
+    },
+    {
+        "name": "Специалист по химзащите | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_variantj_png.png"
+    },
+    {
+        "name": "Резан Красный | Сабля",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_variantk_png.png"
+    },
+    {
+        "name": "Сэр «Чёртов Майами» Дэррил | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varf_png.png"
+    },
+    {
+        "name": "Взломщица Вольцманн | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varg_png.png"
+    },
+    {
+        "name": "Крошка Кев | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varh_png.png"
+    },
+    {
+        "name": "Беглянка Салли | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varj_png.png"
+    },
+    {
+        "name": "Номер К | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_vari_png.png"
+    },
+    {
+        "name": "Сэр «Чёртов тихоня» Дэррил | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varf1_png.png"
+    },
+    {
+        "name": "Сэр «Чёртов череп» Дэррил | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varf2_png.png"
+    },
+    {
+        "name": "Сэр «Чёртова знать» Дэррил | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varf3_png.png"
+    },
+    {
+        "name": "Сэр «Чёртов болтун» Дэррил | Профессионалы",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_professional_varf4_png.png"
+    },
+    {
+        "name": "Второй лейтенант медслужбы | Национальная жандармерия",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_gendarmerie_varianta_png.png"
+    },
+    {
+        "name": "Капитан химзащиты | Национальная жандармерия",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_gendarmerie_variantb_png.png"
+    },
+    {
+        "name": "Коммандант Рушар | Национальная жандармерия",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_gendarmerie_variantc_png.png"
+    },
+    {
+        "name": "Кадет | Национальная жандармерия",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_gendarmerie_variantd_png.png"
+    },
+    {
+        "name": "Офицер Жак Белтрам | Национальная жандармерия",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_gendarmerie_variante_png.png"
+    },
+    {
+        "name": "Лейтенант «Лесник» Фарлоу | SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_swat_variantk_png.png"
+    },
+    {
+        "name": "Капитан Давида «Окуляры» Фернандес | Боевые пловцы SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_diver_varianta_png.png"
+    },
+    {
+        "name": "Капитан Фрэнк «Мокрые носки» Бару | Боевые пловцы SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_diver_variantb_png.png"
+    },
+    {
+        "name": "Лейтенант Рекс Крайки | Боевые пловцы SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_diver_variantc_png.png"
+    },
+    {
+        "name": "Элитный охотник Солман | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_varianta_png.png"
+    },
+    {
+        "name": "Крэссуотер Забытый | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variantb_png.png"
+    },
+    {
+        "name": "Переросток Арно | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variantc_png.png"
+    },
+    {
+        "name": "Полковник Мангос Дабиси | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variantd_png.png"
+    },
+    {
+        "name": "Вайпа, сестра революции | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variante_png.png"
+    },
+    {
+        "name": "Охотник-агрессор | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variantf_png.png"
+    },
+    {
+        "name": "Крэссуотер «Поджарый» | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variantb2_png.png"
+    },
+    {
+        "name": "Охотник | Партизаны",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_jungle_raider_variantf2_png.png"
+    },
+    {
+        "name": "Диверсант  | Элитный отряд",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_leet_variantg_png.png"
+    },
+    {
+        "name": "Осирис | Элитный отряд",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_leet_varianth_png.png"
+    },
+    {
+        "name": "Профессор Шахмат | Элитный отряд",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_leet_varianti_png.png"
+    },
+    {
+        "name": "Элитный мистер Мохлик | Элитный отряд",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_leet_variantf_png.png"
+    },
+    {
+        "name": "Тропический диверсант | Элитный отряд",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_leet_variantj_png.png"
+    },
+    {
+        "name": "Солдат | Феникс",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_phoenix_varianth_png.png"
+    },
+    {
+        "name": "Головорез | Феникс",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_phoenix_variantf_png.png"
+    },
+    {
+        "name": "Мясник | Феникс",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_phoenix_variantg_png.png"
+    },
+    {
+        "name": "Уличный солдат | Феникс",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_phoenix_varianti_png.png"
+    },
+    {
+        "name": "Оперативник | ФБР: SWAT",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_fbi_variantf_png.png"
+    },
+    {
+        "name": "Маркус Делроу | ФБР: антитеррор",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_fbi_variantg_png.png"
+    },
+    {
+        "name": "Майкл Сайферс  | ФБР: снайпер",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_fbi_varianth_png.png"
+    },
+    {
+        "name": "Особый агент Ава | ФБР",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_fbi_variantb_png.png"
+    },
+    {
+        "name": "Третья рота коммандо | KSK",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variantk_png.png"
+    },
+    {
+        "name": "Солдат SEAL Team 6 | NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variante_png.png"
+    },
+    {
+        "name": "Бакшот | NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variantg_png.png"
+    },
+    {
+        "name": "«Дважды» Маккой | USAF TACP",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variantm_png.png"
+    },
+    {
+        "name": "Капитан 3-го ранга Риксоу | NSWC SEAL",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_varianti_png.png"
+    },
+    {
+        "name": "Старший лейтенант | Первый батальон Бразилии",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_st6_variantn_png.png"
+    },
+    {
+        "name": "Драгомир | Сабля",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_variantf_png.png"
+    },
+    {
+        "name": "Максимус | Сабля",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_varianti_png.png"
+    },
+    {
+        "name": "Резан Готовый | Сабля",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_variantg_png.png"
+    },
+    {
+        "name": "Черноволк | Сабля",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_variantj_png.png"
+    },
+    {
+        "name": "«Доктор» Романов | Сабля",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_varianth_png.png"
+    },
+    {
+        "name": "Драгомир | Пехота «Сабли»",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_tm_balkan_variantl_png.png"
+    },
+    {
+        "name": "Офицер отряда B | SAS",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_sas_variantf_png.png"
+    },
+    {
+        "name": "Офицер отряда D | NZSAS",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/characters/customplayer_ctm_sas_variantg_png.png"
+    }
+]
